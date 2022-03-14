@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://schema.opencontext.com",
+  "$id": "https://raw.githubusercontent.com/opencontextinc/schema/main/config.json",
   "title": "OpenContext Configuration Meta-Schema",
   "definitions": {
     "schemaArray": {
